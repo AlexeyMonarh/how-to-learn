@@ -1,4 +1,4 @@
-@import url(/Project_2/blocks/rotation/rotation__square-pic.css);
+@import url(../../rotation/rotation__square-pic.css);
 
 .header__square-pic {
   position: absolute;
@@ -9,4 +9,5 @@
   height: 568px;
   width: 568px;
   animation: rotation__square-pic 20s infinite;
+  transform: rotate(-15deg);
 }
