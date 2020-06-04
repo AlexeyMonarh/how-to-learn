@@ -1,14 +1,13 @@
-@import url(../../blocks/cards/__image/cards__image.css);
-@import url(../../blocks/cards/cards.css);
-@import url(../../blocks/cards/__item/cards__item.css);
-@import url(../../blocks/cards/__description/cards__description.css);
+@import url(cards/cards.css);
 
 .techniques {
   width: 80%;
   margin: auto;
-  padding: 0;
+  padding-top: 100px;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
+  align-items: center;
+  text-align: center;
 }

@@ -1,5 +1,10 @@
 .video__iframes {
+ position: relative;
+  bottom: -40px;
   display: flex;
-  flex-wrap: nowrap;
-  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.video__iframe:last-child {
+  margin-right: 20px;
 }

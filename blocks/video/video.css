@@ -1,9 +1,10 @@
 @import url(../video/__iframe/video__iframe.css);
-@import url(../video/__iframe/video__iframes.css);
+@import url(../video/__iframes/video__iframes.css);
+@import url(../video/__title_line-height/video__section-title_line-height.css);
 
 .video {
+  padding-top: 100px;
   margin: auto;
-  padding: 0;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;

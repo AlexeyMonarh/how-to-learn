@@ -1,6 +1,7 @@
 @import url(../feynman/__title/feynman__title.css);
 @import url(../feynman/__subtitle/feynman__subtitle.css);
 @import url(../feynman/__link/feynman__link.css);
+@import url(../feynman/__img/faynman__img.css);
 
 .feynman {
   margin: 0;
@@ -13,5 +14,5 @@
   background-color: #f2f2f2;
   width: auto;
   margin-top: 0px;
-  padding-top: 100px;
+  padding-top: 80px;
 }
