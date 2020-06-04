@@ -11,7 +11,9 @@
 @import url(../table/table.css);
 @import url(../faynman/__img/faynman__img.css);
 @import url(../feynman/feynman.css);
+@import url(../khan/khan.css);
 @import url(../kaufman/kaufman.css);
+@import url(../resources/resources.css);
 @import url(../footer/footer.css);
 
 .page {

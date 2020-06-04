@@ -9,5 +9,5 @@
   top: 0;
   right: -210px;
   z-index: 2;
-  animation: rotation__kaufman-triangle 5s linear;
+  animation: rotation__kaufman-triangle 10s linear infinite;
 }

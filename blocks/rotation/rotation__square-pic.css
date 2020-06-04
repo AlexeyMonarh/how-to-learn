@@ -1,8 +1,8 @@
 @keyframes rotation__square-pic {
   from {
-    transform: rotate(0deg);
+    transform: rotate(-15deg);
 }
   to {
-    transform: rotate(360deg);
+    transform: rotate(345deg);
 }
 }
