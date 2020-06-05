@@ -1,8 +1,0 @@
-@keyframes rotation__kaufman-triangle {
-  from {
-    transform: rotate(0deg);
-}
-  to {
-    transform: rotate(360deg);
-}
-}
