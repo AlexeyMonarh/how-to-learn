@@ -1,59 +1,59 @@
 /* Normalize*/
-@import url(../vendor/normalize.css);
+@import url("../vendor/normalize.css");
 
 /* Page */
-@import url(../blocks/page/page.css);
+@import url("../blocks/page/page.css");
 
 /* Header */
-@import url(../blocks/header/header.css);
+@import url("../blocks/header/header.css");
 
 /* Logo */
-@import url(../blocks/logo/logo.css);
+@import url("../blocks/logo/logo.css");
 
 /* Rotation */
-@import url(../blocks/rotation/rotation.css);
+@import url("../blocks/rotation/rotation.css");
 
 /* Description */
-@import url(../blocks/description/description.css);
+@import url("../blocks/description/description.css");
 
 /* Two-columns */
-@import url(../blocks/two-columns/two-columns.css);
+@import url("../blocks/two-columns/two-columns.css");
 
 /* Techniques */
-@import url(../blocks/techniques/techniques.css);
+@import url("../blocks/techniques/techniques.css");
 
 /* Section-title */
-@import url(../blocks/section-title/section-title.css);
+@import url("../blocks/section-title/section-title.css");
 
 /* Section-subtitle */
-@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url("../blocks/section-subtitle/section-subtitle.css");
 
 /* Cards */
-@import url(../blocks/cards/cards.css);
+@import url("../blocks/cards/cards.css");
 
 /* Video */
-@import url(../blocks/video/video.css);
+@import url("../blocks/video/video.css");
 
 /* Oakley */
-@import url(../blocks/oakley/oakley.css);
+@import url("../blocks/oakley/oakley.css");
 
 /* Feynman */
-@import url(../blocks/feynman/feynman.css);
+@import url("../blocks/feynman/feynman.css");
 
 /* Digits */
-@import url(../blocks/digits/digits.css);
+@import url("../blocks/digits/digits.css");
 
 /* Table */
-@import url(../blocks/table/table.css);
+@import url("../blocks/table/table.css");
 
 /* Khan */
-@import url(../blocks/khan/khan.css);
+@import url("../blocks/khan/khan.css");
 
 /* Kaufman */
-@import url(../blocks/kaufman/kaufman.css);
+@import url("../blocks/kaufman/kaufman.css");
 
 /* Resources */
-@import url(../blocks/resources/resources.css);
+@import url("../blocks/resources/resources.css");
 
 /* Footer */
-@import url(../blocks/footer/footer.css);
+@import url("../blocks/footer/footer.css");
