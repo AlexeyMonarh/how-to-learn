@@ -13,7 +13,7 @@
     <title>Научиться учиться</title>
   </head>
 
-  <body class="page">
+  <body class="page" onload="js_Load()">
     <!-- Header -->
     <header class="header">
       <img
@@ -453,5 +453,10 @@
         </div>
       </div>
     </footer>
+    <script type="text/javascript">
+      function js_Load() {
+        document.body.style.visibility = "visible";
+      }
+    </script>
   </body>
 </html>
